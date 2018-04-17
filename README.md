@@ -8,6 +8,16 @@ This repository explains how to build a Knock Sensor Lock using an Arduino UNO. 
 <img src="images/IMG20180416151042.jpg" width="400">
 <img src="images/IMG20180416151526.jpg" width="400">
 
+# Repository Contents
+**Design and Build Process** - Explains how the project was built <br />
+**User Manual	user manual** - Explains how all the major parts works <br />
+**images** - Contains images of the project <br />
+**source code** - Contains the main programming code	 <br />
+**LICENSE** - The license file	Initial commit	2 months ago <br />
+**README.md**	- Explains repository's purpose <br />
+**References** - Contains references of other similar works <br />
+**Work in progress**	- Gives information about the progess of the project <br />
+
 # Parts and Tools needed
 1 x Arduino UNO <br />
 1 x Piezo buzzer <br />
