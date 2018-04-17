@@ -8,21 +8,28 @@ The working principle of the lock system is rather easy to understand. The knock
 There are two LED s and a push button attached to the wall on the inside of the house. One LED is green and the other one is red. These LEDs blink independently or in a sequence to represent many different processes of the system. The system also consists a push button, which is used to program a new knock series. This programming button replaces the knock series already saved in the memory, with the new series of knocks being recorded while the button is pressed.
 
 # Parts and Tools needed
-1 x Arduino UNO         
-1 x Piezo buzzer        
+1 x Arduino UNO
+1 x Piezo buzzer
 1 x 1MΩ resistor
 1 x Green LED
-1 x Red LED            
+1 x Red LED
 1 x Pushbutton
 25 x 560Ω resistors
-1 x 10kΩ resistor     	   
+1 x 10kΩ resistor
 1 x servo motor
 4 x AA batteries
-1 x Breadboard 
-Many assorted wires       
-Some cardboard boxes		 
-Glue gun 
-Soldering iron           	
-Battery-powered speaker 	 
-Box cutter    
+1 x Breadboard
+Many assorted wires
+Some cardboard boxes
+Glue gun
+Soldering iron
+Battery-powered speaker
+Box cutter
 Computer to program the Arduino Board
+
+# Team
+Harpinder Singh Minhas
+
+# Credits
+Steve Hoefer - Grathio Labs - Programming Code
+Alex James Clarke - University of Regina- Programming code
