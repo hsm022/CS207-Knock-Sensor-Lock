@@ -35,7 +35,7 @@ const int knockComplete = 1200;     // Longest time to wait for a knock before w
 // Variables.
 int secretCode[maximumKnocks] = {13, 33, 11, 18, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};  // Initial setup: "Shave and a Hair Cut, two bits."
 int knockReadings[maximumKnocks];   // When someone knocks this array fills with delays between knocks.
-int knockSensorValue = 0;           // Last reading of the knock sensor.
+int knockSensorValue = 0;           // Last reading of the knock sensor
 int programButtonPressed = false;   // Flag so we remember the programming button setting at the end of the cycle.
 
 void setup() {
